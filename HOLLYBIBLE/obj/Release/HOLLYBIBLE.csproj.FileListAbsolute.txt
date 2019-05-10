@@ -1,0 +1,20 @@
+H:\HOLY BIBLE\HOLLYBIBLE\obj\Release\Interop.WMPLib.dll
+H:\HOLY BIBLE\HOLLYBIBLE\obj\Release\AxInterop.WMPLib.dll
+H:\HOLY BIBLE\HOLLYBIBLE\obj\Release\HOLLYBIBLE.csproj.ResolveComReference.cache
+H:\HOLY BIBLE\HOLLYBIBLE\bin\Release\HOLLYBIBLE.exe
+H:\HOLY BIBLE\HOLLYBIBLE\bin\Release\HOLLYBIBLE.pdb
+H:\HOLY BIBLE\HOLLYBIBLE\bin\Release\Interop.WMPLib.dll
+H:\HOLY BIBLE\HOLLYBIBLE\bin\Release\AxInterop.WMPLib.dll
+H:\HOLY BIBLE\HOLLYBIBLE\obj\Release\HOLLYBIBLE.csprojResolveAssemblyReference.cache
+H:\HOLY BIBLE\HOLLYBIBLE\obj\Release\HOLLYBIBLE.Form1.resources
+H:\HOLY BIBLE\HOLLYBIBLE\obj\Release\HOLLYBIBLE.Form3.resources
+H:\HOLY BIBLE\HOLLYBIBLE\obj\Release\HOLLYBIBLE.Form4.resources
+H:\HOLY BIBLE\HOLLYBIBLE\obj\Release\HOLLYBIBLE.Properties.Resources.resources
+H:\HOLY BIBLE\HOLLYBIBLE\obj\Release\HOLLYBIBLE.csproj.GenerateResource.Cache
+H:\HOLY BIBLE\HOLLYBIBLE\obj\Release\HOLLYBIBLE.exe
+H:\HOLY BIBLE\HOLLYBIBLE\obj\Release\HOLLYBIBLE.pdb
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\obj\Release\Interop.WMPLib.dll
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\obj\Release\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\obj\Release\HOLLYBIBLE.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\obj\Release\HOLLYBIBLE.exe
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\obj\Release\HOLLYBIBLE.pdb

@@ -1,0 +1,109 @@
+C:\Users\daniel\AppData\Local\Temporary Projects\HOLLYBIBLE\bin\Debug\HOLLYBIBLE.exe
+C:\Users\daniel\AppData\Local\Temporary Projects\HOLLYBIBLE\bin\Debug\HOLLYBIBLE.pdb
+C:\Users\daniel\AppData\Local\Temporary Projects\HOLLYBIBLE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel\AppData\Local\Temporary Projects\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form1.resources
+C:\Users\daniel\AppData\Local\Temporary Projects\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form2.resources
+C:\Users\daniel\AppData\Local\Temporary Projects\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Properties.Resources.resources
+C:\Users\daniel\AppData\Local\Temporary Projects\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.csproj.GenerateResource.Cache
+C:\Users\daniel\AppData\Local\Temporary Projects\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.exe
+C:\Users\daniel\AppData\Local\Temporary Projects\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.pdb
+C:\Users\daniel\Documents\Visual Studio 2008\Projects\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.exe
+C:\Users\daniel\Documents\Visual Studio 2008\Projects\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.pdb
+C:\Users\daniel\Documents\Visual Studio 2008\Projects\HOLLYBIBLE\HOLLYBIBLE\bin\Debug\HOLLYBIBLE.exe
+C:\Users\daniel\Documents\Visual Studio 2008\Projects\HOLLYBIBLE\HOLLYBIBLE\bin\Debug\HOLLYBIBLE.pdb
+C:\Users\daniel\Documents\Visual Studio 2008\Projects\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\daniel\Documents\Visual Studio 2008\Projects\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form1.resources
+C:\Users\daniel\Documents\Visual Studio 2008\Projects\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form3.resources
+C:\Users\daniel\Documents\Visual Studio 2008\Projects\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Properties.Resources.resources
+C:\Users\daniel\Documents\Visual Studio 2008\Projects\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.csproj.GenerateResource.Cache
+C:\Users\daniel\Documents\Visual Studio 2008\Projects\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form4.resources
+C:\Users\daniel\Documents\Visual Studio 2008\Projects\HOLLYBIBLE\HOLLYBIBLE\bin\Debug\Interop.WMPLib.dll
+C:\Users\daniel\Documents\Visual Studio 2008\Projects\HOLLYBIBLE\HOLLYBIBLE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\daniel\Documents\Visual Studio 2008\Projects\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\Interop.WMPLib.dll
+C:\Users\daniel\Documents\Visual Studio 2008\Projects\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\daniel\Documents\Visual Studio 2008\Projects\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.csproj.ResolveComReference.cache
+C:\Users\HP\Documents\Conception Application Memoire Audry\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Documents\Conception Application Memoire Audry\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Documents\Conception Application Memoire Audry\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Documents\Conception Application Memoire Audry\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.csproj.ResolveComReference.cache
+C:\Users\HP\Documents\Conception Application Memoire Audry\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form1.resources
+C:\Users\HP\Documents\Conception Application Memoire Audry\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form3.resources
+C:\Users\HP\Documents\Conception Application Memoire Audry\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form4.resources
+C:\Users\HP\Documents\Conception Application Memoire Audry\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Conception Application Memoire Audry\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.exe
+C:\Users\HP\Documents\Conception Application Memoire Audry\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.pdb
+C:\Users\HP\Documents\Conception Application Memoire Audry\HOLLYBIBLE\HOLLYBIBLE\bin\Debug\HOLLYBIBLE.exe
+C:\Users\HP\Documents\Conception Application Memoire Audry\HOLLYBIBLE\HOLLYBIBLE\bin\Debug\HOLLYBIBLE.pdb
+C:\Users\HP\Documents\Conception Application Memoire Audry\HOLLYBIBLE\HOLLYBIBLE\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\Documents\Conception Application Memoire Audry\HOLLYBIBLE\HOLLYBIBLE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\Documents\Conception Application Memoire Audry\HOLLYBIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Properties.Resources.resources
+N:\HOLY BIBLE\HOLLYBIBLE\bin\Debug\HOLLYBIBLE.exe
+N:\HOLY BIBLE\HOLLYBIBLE\bin\Debug\HOLLYBIBLE.pdb
+N:\HOLY BIBLE\HOLLYBIBLE\bin\Debug\Interop.WMPLib.dll
+N:\HOLY BIBLE\HOLLYBIBLE\bin\Debug\AxInterop.WMPLib.dll
+N:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\ResolveAssemblyReference.cache
+N:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\Interop.WMPLib.dll
+N:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\AxInterop.WMPLib.dll
+N:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.csproj.ResolveComReference.cache
+N:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form1.resources
+N:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form3.resources
+N:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form4.resources
+N:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Properties.Resources.resources
+N:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.csproj.GenerateResource.Cache
+N:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.exe
+N:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.pdb
+K:\HOLY BIBLE\HOLLYBIBLE\bin\Debug\HOLLYBIBLE.exe
+K:\HOLY BIBLE\HOLLYBIBLE\bin\Debug\HOLLYBIBLE.pdb
+K:\HOLY BIBLE\HOLLYBIBLE\bin\Debug\Interop.WMPLib.dll
+K:\HOLY BIBLE\HOLLYBIBLE\bin\Debug\AxInterop.WMPLib.dll
+K:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\ResolveAssemblyReference.cache
+K:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\Interop.WMPLib.dll
+K:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\AxInterop.WMPLib.dll
+K:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.csproj.ResolveComReference.cache
+K:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form1.resources
+K:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form3.resources
+K:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form4.resources
+K:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Properties.Resources.resources
+K:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.csproj.GenerateResource.Cache
+K:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.exe
+K:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.pdb
+C:\Users\Jean-Marie\Desktop\HOLY BIBLE\HOLLYBIBLE\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jean-Marie\Desktop\HOLY BIBLE\HOLLYBIBLE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jean-Marie\Desktop\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.csproj.ResolveComReference.cache
+C:\Users\Jean-Marie\Desktop\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.exe
+C:\Users\Jean-Marie\Desktop\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.pdb
+C:\Users\Jean-Marie\Desktop\HOLY BIBLE\HOLLYBIBLE\bin\Debug\HOLLYBIBLE.exe
+C:\Users\Jean-Marie\Desktop\HOLY BIBLE\HOLLYBIBLE\bin\Debug\HOLLYBIBLE.pdb
+C:\Users\Jean-Marie\Desktop\HOLY BIBLE\HOLLYBIBLE\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jean-Marie\Desktop\HOLY BIBLE\HOLLYBIBLE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jean-Marie\Desktop\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.csprojResolveAssemblyReference.cache
+C:\Users\Jean-Marie\Desktop\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form1.resources
+C:\Users\Jean-Marie\Desktop\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form3.resources
+C:\Users\Jean-Marie\Desktop\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form4.resources
+C:\Users\Jean-Marie\Desktop\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Properties.Resources.resources
+C:\Users\Jean-Marie\Desktop\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.csproj.GenerateResource.Cache
+E:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\Interop.WMPLib.dll
+E:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\AxInterop.WMPLib.dll
+E:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.csproj.ResolveComReference.cache
+E:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.exe
+E:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.pdb
+H:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\Interop.WMPLib.dll
+H:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\AxInterop.WMPLib.dll
+H:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.csproj.ResolveComReference.cache
+H:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.exe
+H:\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.pdb
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.exe
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.pdb
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\bin\Debug\HOLLYBIBLE.exe
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\bin\Debug\HOLLYBIBLE.pdb
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form1.resources
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form3.resources
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Form4.resources
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.Properties.Resources.resources
+C:\Users\User\Desktop\My Passport Content\HOLY BIBLE\HOLLYBIBLE\obj\Debug\HOLLYBIBLE.csproj.GenerateResource.Cache
